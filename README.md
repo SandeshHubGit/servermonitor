@@ -3,15 +3,15 @@
 ## For Deatils information read the System Monitoring Setup.docx file.
 
 ### System Monitoring Setup
-   a. Installing and configuring htop or nmon
-   b. Installing htop (CPU, memory, and processes)
-   c. Installing nmon (Performance Monitoring)
-   d. Tracking Disk Usage with df and du
-   e. Tracking Disk Usage with df and du
-   f. basic reporting
 
- 3. User Management and Access Control
+1. Installing and configuring htop or nmon
+2. Installing htop (CPU, memory, and processes)
+3. Installing nmon (Performance Monitoring)
+4. Tracking Disk Usage with df and du
+5. basic reporting
+ 
+### User Management and Access Control
 
- 4. Web backup
+### Web backup
     1. apache
     2. nginx
