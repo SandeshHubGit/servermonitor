@@ -2,7 +2,7 @@
 
 ## For Deatils information read the System Monitoring Setup.docx file.
 
-1. System Monitoring Setup
+### System Monitoring Setup
    a. Installing and configuring htop or nmon
    b. Installing htop (CPU, memory, and processes)
    c. Installing nmon (Performance Monitoring)
